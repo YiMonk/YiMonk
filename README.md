@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Soy [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&letterSpacing=1px&pause=1000&color=2EA0D2&width=435&lines=Jesus;YiMonk)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Soy <a href="https://github.com/YiMonk"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&letterSpacing=1px&pause=1000&color=2EA0D2&width=435&lines=Jesus;YiMonk" alt="Typing SVG" /></a></h1>
 <p align="center">
   <a href="https://github.com/YiMonk"><img src="[https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&letterSpacing=1px&pause=1000&color=2EA0D2&width=435&lines=Desarrollador+web](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&letterSpacing=1px&pause=1000&color=2EA0D2&width=435&lines=Desarrollador+web+%3C%2F%3E;JS+%7C+CSS+%7C+HTML+%7C+REACT+%7C+NODE+)" alt="Typing SVG"></a>
 </p>
