@@ -14,10 +14,6 @@
      <a href="https://www.linkedin.com/in/jesus-calles/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-    <!-- Discord!-->
- <a href="https://github.com/YiMonk">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
     <!-- Gmail!-->
      <a href="mailto:jactcalles@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
