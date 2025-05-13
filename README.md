@@ -1,4 +1,4 @@
-## Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Jesus Calles (YiMonk) 
+## Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Jesus Calles  
 <p>Soy desarrollador web orientado al frontend, tengo gusto tambien por el diseño grafico y los videojuegos</p>
 
 ## Tecnologias que manejo
